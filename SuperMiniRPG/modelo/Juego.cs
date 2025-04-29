@@ -67,11 +67,11 @@ namespace ActividadIntegradora {
         }
 
         public void MostrarEscape() {
-            _mensaje("\n¡Has escapado exitosamente! Como un debilucho...");
+            _mensaje("\nHas escapado exitosamente! Como un debilucho...");
         }
 
         public void MostrarDerrota() {
-            _mensaje("\n¡Has sido derrotado! Tu aventura termina acá...");
+            _mensaje("\nHas sido derrotado! Tu aventura termina acá...");
         }
     }
 }
